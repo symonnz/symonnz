@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Saymon
+- 👀 I’m interested in becoming a front end developer
+- 🌱 I’m currently learning html, css and javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: [LinkedIn]("https://www.linkedin.com/in/saymon-victor-b31704213/")
