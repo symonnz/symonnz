@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--
 ### ⚡ Electrical Engineering Student | Low-Level enthusiast | Automation & DevOps
 
 I am an Electrical Engineering student passionate about the intersection between hardware and software. My focus is on integrating core engineering concepts with modern software tools to automate systems and process signals efficiently.
@@ -39,3 +39,4 @@ I am an Electrical Engineering student passionate about the intersection between
 ### 📫 How to reach me
 *I'm currently building my professional social presence.* - **GitHub:** You're already here! 🚀
 - **LinkedIn:** [Coming Soon]
+-->
